@@ -81,15 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Dr James Pang"
-  avatar           : "profile_photo_James_Pang.jpg"
+  avatar           : "profile_photo_2026.jpg"
   bio              : "Physicist/Neuroscientist working on neuroimaging and computational models"
   location         : "Melbourne, Australia"
-  employer         : 
+  employer         : "Monash University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=QdrOmZgAAAAJ&hl=en"
   email            : "james.pang1@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   website          : "https://research.monash.edu/en/persons/james-pang"
+  website          : "https://www.monash.edu/turner-institute/james-pang-lab"
   uri              : "https://research.monash.edu/en/persons/james-pang"
   bitbucket        :
   codepen          :
