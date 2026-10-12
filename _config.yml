@@ -90,7 +90,7 @@ author:
   email            : "james.pang1@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   website          : "https://research.monash.edu/en/persons/james-pang"
-  website          : "https://www.monash.edu/turner-institute/james-pang-lab"
+  lab              : "https://www.monash.edu/turner-institute/james-pang-lab"
   uri              : "https://research.monash.edu/en/persons/james-pang"
   bitbucket        :
   codepen          :
