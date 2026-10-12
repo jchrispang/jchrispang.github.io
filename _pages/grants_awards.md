@@ -1,4 +1,4 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/ecdfef9d-d332-4a04-9527-a62ebeee6710" />---
+---
 permalink: /
 title: "Grants/Awards"
 permalink: /grants_awards/
