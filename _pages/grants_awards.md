@@ -25,7 +25,7 @@ permalink: /grants_awards/
 
 ## Awards
 1. 2026, Emerging Leadership Award, Organization for Human Brain Mapping Australia
-2. 2025, Young Tall Poppy Award, Australian Institute of Policy and Science
+2. 2026, Young Tall Poppy Award, Australian Institute of Policy and Science
 3. 2025, AW Campbell Award, Australasian Neuroscience Society
 4. 2025, Turner EDGE Discovery Award, Monash University Turner Institute for Brain and Mental Health
 5. 2025,  Merit Prize, Universal Scientific Education and Research Network (USERN)
